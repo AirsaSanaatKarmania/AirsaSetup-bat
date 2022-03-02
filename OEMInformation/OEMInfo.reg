@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Logo"="C:\\Windows\\System32\\OEM\\OEMLogo.bmp"  ;120×120 pixels
+"Manufacturer"="MD AKHI"
+"Model"="Acer Nitro 5"
+"HelpCustomized"=dword:00000001
+"SupportURL"="http://www.akhi.ir"
+"SupportHours"="8:00 - 15:00"
+"SupportPhone"="+989132421571"
